@@ -1,0 +1,6 @@
+c:\users\drleavsy\documents\visual studio 2015\Projects\HW10\HW10\bin\Debug\HW10.exe.config
+c:\users\drleavsy\documents\visual studio 2015\Projects\HW10\HW10\bin\Debug\HW10.exe
+c:\users\drleavsy\documents\visual studio 2015\Projects\HW10\HW10\bin\Debug\HW10.pdb
+c:\users\drleavsy\documents\visual studio 2015\Projects\HW10\HW10\obj\Debug\HW10.exe
+c:\users\drleavsy\documents\visual studio 2015\Projects\HW10\HW10\obj\Debug\HW10.pdb
+C:\Users\drleavsy\documents\visual studio 2015\Projects\HW10\HW10\obj\Debug\HW10.csprojResolveAssemblyReference.cache
